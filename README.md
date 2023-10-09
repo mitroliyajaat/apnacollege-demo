@@ -1,4 +1,4 @@
 # apnacollege-demo
-this is my first Git Reposistory
-author:krishan chauhan
+this is my first Git Reposistory <br>author:krishan chauhan
+
 
